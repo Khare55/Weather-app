@@ -12,11 +12,9 @@ This web-based application provides a seamless and interactive experience for ac
 
 2. Location-Based Weather
 
-3. Interactive Maps
+3. Customizable Preferences
 
-4. Customizable Preferences
-
-5. Forecast Accuracy
+4. Forecast Accuracy
 
 
 ## Tech Stack
